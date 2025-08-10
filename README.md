@@ -1,4 +1,3 @@
-VITAL U
 Vital U is a health and wellness web app that covers fitness, mental health, and nutrition in one place. It’s built with HTML, CSS, and JavaScript—easy to run locally using XAMPP or deploy online.
 
 Project Structure
