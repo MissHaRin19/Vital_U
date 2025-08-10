@@ -29,29 +29,33 @@ Features
 
 
 How to Run Locally (XAMPP Setup)
-1. Install XAMPP
+1. Install XAMPP:
 Download from Apache Friends and install it.
 
-2. Locate htdocs Folder
+2. Locate htdocs Folder:
 After installation, go to the XAMPP installation directory:
 C:\xampp\htdocs\
 
-3. Copy Project Files
+3. Copy Project Files:
 Place the Vital_U folder inside htdocs.
 Path should look like:
+```
 C:\xampp\htdocs\Vital_U\
+```
 
-4. Start XAMPP
+5. Start XAMPP:
 Open the XAMPP Control Panel and start Apache.
 
-5. Access in Browser
+6. Access in Browser
 Go to:
 http://localhost/Vital_U/index.html
 Navigate between Fitness, Mental Health, and Nutrition pages.
 
 Live Demo
 Deployed on render, link here:
+```
 https://vital-u.onrender.com
+```
 
 Requirements
 Web browser (Chrome, Edge, Firefox, etc.)
