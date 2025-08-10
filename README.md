@@ -55,6 +55,10 @@ Deployed on render, link here:
 ```
 https://vital-u.onrender.com
 ```
+To watch the Demo Video:
+```
+https://drive.google.com/file/d/1edGSdGmsAnxvdrTTZYbFz1ZdtEdWlNIp/view?usp=sharing
+```
 
 Requirements
 Web browser (Chrome, Edge, Firefox, etc.)
